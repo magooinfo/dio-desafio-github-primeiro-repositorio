@@ -1,4 +1,4 @@
-# Projeto 1 Acompanhamento dos estudos do Bootcamp Orange Tech+
+# Projeto 1 - Acompanhamento dos estudos do Bootcamp Orange Tech+
 
 ## Links úteis
 
